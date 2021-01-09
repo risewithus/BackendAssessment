@@ -1,2 +1,2 @@
 # Backend Assessment
-This Assessment for JR. .NET Developers
+This Assessment for JR .NET Developers
