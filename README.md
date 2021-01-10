@@ -30,8 +30,7 @@ The required fields of the data structure expected to be met are as follows :
 -	Last Name
 -	Firm
 -	Contact Information
-   -	Information Type: Phone Number, E-mail Adress, Location
-   -	The content of Information
+-- Information Type: Phone Number, E-mail Adress, Location
   
 **Report :** It simply includes the information below :
 
