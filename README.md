@@ -48,6 +48,7 @@ The required fields of the data structure expected to be met are as follows :
     -	.NET Core
     -	Git
     -	MSSQL, Postgres, MongoDB (anyone of them will be sufficient)
+    -	EF Core or Dapper
     -	Redis (plus)
 -	Restrictions and Needs 
     -	Developing the project on Git with frequent commits
