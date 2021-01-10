@@ -36,7 +36,7 @@ The required fields of the data structure expected to be met are as follows :
 **Report :** It simply includes the information below :
 
 -	Location Information
-  -	The most -> The least, in this way listing location by numbers 
+    -	The most -> The least, in this way listing location by numbers 
 -	The number of people registered in the address book at that location
 -	The number of phone numbers registered in the address book at that location
 
@@ -45,16 +45,16 @@ The required fields of the data structure expected to be met are as follows :
 ### Technical Expectations
 
 -	Technologies To Be Used 
-  -	.NET Core
-  -	Git
-  -	MSSQL, Postgres, MongoDB (anyone of them will be sufficient)
-  -	Redis
+    -	.NET Core
+    -	Git
+    -	MSSQL, Postgres, MongoDB (anyone of them will be sufficient)
+    -	Redis
 -	Restrictions and Needs 
-  -	Developing the project on Git with frequent commits
-  -	Minimum %60 unit testing code coverage
-  -	Having been created the migration structure which will form the project’s database
-  -	READ.md documentation on how to be operated the project
-  -	Services should be provided with REST communication over HTTP
+    -	Developing the project on Git with frequent commits
+    -	Minimum %60 unit testing code coverage
+    -	Having been created the migration structure which will form the project’s database
+    -	READ.md documentation on how to be operated the project
+    -	Services should be provided with REST communication over HTTP
 
 ### Completing Work
 
