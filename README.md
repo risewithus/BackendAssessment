@@ -59,3 +59,7 @@ The required fields of the data structure expected to be met are as follows :
 ### Completing Work
 
 When the work is completed, it is expected that you will transfer this codebase to a git repository and share it with the repository address.
+
+### Questions
+
+If you have any question you can send an e-mail at info@rise-consulting.net
