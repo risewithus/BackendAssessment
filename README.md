@@ -25,12 +25,13 @@ A simple phone directory application will be provided by designing a structure w
 **Contacts :** Theoretically adding the infinite numbers of contacts can be made in the system. The information related to every person must be able to be added as well.
 The required fields of the data structure expected to be met are as follows :
 
--	UUID
--	Name
--	Last Name
--	Firm
--	Contact Information
--- Information Type: Phone Number, E-mail Adress, Location
+•	UUID
+•	Name
+•	Last Name
+•	Firm
+•	Contact Information
+o	Information Type: Phone Number, E-mail Adress, Location
+o	The content of Information
   
 **Report :** It simply includes the information below :
 
