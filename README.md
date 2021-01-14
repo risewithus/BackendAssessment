@@ -1,5 +1,5 @@
 # Backend Assessment
-## This Assessment for JR .NET Developers
+## This Assessment for .NET Developers
 
 This assessment has been prepared for the candidates in the application process for the job and has been designed to help us in terms of evaluating the abilities and approaches by those who will attend. 
 Within the assessment; we will expect you to complete the project whose content and details have been specified below within the time specified. The other important point is that you will deliver the best work which will also help us to properly evaluate. 
